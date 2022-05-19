@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IJ-AABBTree:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IJ_AABBTree_jar</output-path>
+    <root id="archive" name="IJ-AABBTree.jar">
+      <element id="module-output" name="IJ-AABBTree" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

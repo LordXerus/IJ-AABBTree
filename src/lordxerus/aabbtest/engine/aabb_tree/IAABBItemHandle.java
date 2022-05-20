@@ -1,6 +1,6 @@
 package lordxerus.aabbtest.engine.aabb_tree;
 
-import lordxerus.aabbtest.engine.internals.AABB;
+import lordxerus.aabbtest.engine.AABB;
 
 interface IAABBItemHandle {
 

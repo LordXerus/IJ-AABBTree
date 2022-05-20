@@ -4,7 +4,7 @@ import lordxerus.aabbtest.engine.Vector2;
 import lordxerus.aabbtest.engine.aabb_tree.AABBItem;
 import lordxerus.aabbtest.engine.aabb_tree.AABBTree;
 import lordxerus.aabbtest.engine.annotation.NotNullByDefault;
-import lordxerus.aabbtest.engine.internals.AABB;
+import lordxerus.aabbtest.engine.AABB;
 import processing.core.PGraphics;
 
 import java.util.ArrayList;

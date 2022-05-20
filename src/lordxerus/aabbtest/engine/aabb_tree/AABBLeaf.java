@@ -2,7 +2,7 @@ package lordxerus.aabbtest.engine.aabb_tree;
 
 import lordxerus.aabbtest.engine.Vector2;
 import lordxerus.aabbtest.engine.annotation.NotNullByDefault;
-import lordxerus.aabbtest.engine.internals.AABB;
+import lordxerus.aabbtest.engine.AABB;
 
 import javax.annotation.Nullable;
 import java.util.Optional;

@@ -1,5 +1,4 @@
-package lordxerus.aabbtest.engine.internals;
-import lordxerus.aabbtest.engine.Vector2;
+package lordxerus.aabbtest.engine;
 
 public class AABB {
     public final Vector2 lower;
